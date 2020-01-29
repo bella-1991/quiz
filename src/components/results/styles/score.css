@@ -1,0 +1,8 @@
+.score { padding: 20px; }
+.score__summary { text-align: center; margin: 20px; }
+.score__btn-container { display: flex; justify-content: space-between; }
+.score__explanation { padding: 10px; margin-bottom: 10px; border-bottom: 1px solid lightgray; }
+.score__explanation:last-of-type { border-bottom: none; }
+.score__question { font-weight: bold; }
+.score__user-answer { color: red; }
+.score__explanation--correct .score__user-answer { color: green;}

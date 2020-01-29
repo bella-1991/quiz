@@ -1,0 +1,131 @@
+[
+    {
+        "questionNo" : 1, 
+        "question": "Does setting margin-top and margin-bottom have an effect on an inline element?",
+        "answers": [{
+            "code": "Y",
+            "answer": "yes"
+        },{
+            "code": "N",
+            "answer": "no"
+        }],
+        "answer": "N"
+    },{
+        "questionNo" : 2, 
+        "question": "Does setting padding-top and padding-bottom on an inline element add to its dimentions?",
+        "answers": [{
+            "code": "Y",
+            "answer": "yes"
+        },{
+            "code": "N",
+            "answer": "no"
+        }],
+        "answer": "N"
+    },{
+        "questionNo" : 3, 
+        "question": "Is <keygen> a valid HTML5 tag",
+        "answers": [{
+            "code": "Y",
+            "answer": "yes"
+        },{
+            "code": "N",
+            "answer": "no"
+        }],
+        "answer": "Y"
+    },{
+        "questionNo" : 4, 
+        "question": "Does the <bdo> tag change the direction of text?",
+        "answers": [{
+            "code": "Y",
+            "answer": "yes"
+        },{
+            "code": "N",
+            "answer": "no"
+        }],
+        "answer": "Y"
+    },{
+        "questionNo" : 5, 
+        "question": "In what situation should you use the <small> tag?",
+        "answers": [{
+            "code": "A",
+            "answer": "When you want to create subheading after a <h1> element"
+        },{
+            "code": "B",
+            "answer": "When you want to add copyright information inside a <footer>"
+        },{
+            "code": "C",
+            "answer": "Both situations"
+        }],
+        "answer": "B"
+    },{
+        "questionNo" : 6, 
+        "question": "If a webpage contains organic, multiple <h1> tags, will it affect the SEO negatively?",
+        "answers": [{
+            "code": "Y",
+            "answer": "yes"
+        },{
+            "code": "N",
+            "answer": "no"
+        }],
+        "answer": "N"
+    },{
+        "questionNo" : 7, 
+        "question": "What does the following evaluates to in JavaScript: '1' + 2 '3' + 4",
+        "answers": [{
+            "code": "A",
+            "answer": "10"
+        },{
+            "code": "B",
+            "answer": "1234"
+        },{
+            "code": "C",
+            "answer": "37"
+        }],
+        "answer": "B"
+    },{
+        "questionNo" : 8, 
+        "question": "What does the following evaluates to in JavaScript: 4 + 3 + 2 + '1'",
+        "answers": [{
+            "code": "A",
+            "answer": "10"
+        },{
+            "code": "B",
+            "answer": "4321"
+        },{
+            "code": "C",
+            "answer": "91"
+        }],
+        "answer": "C"
+    },{
+        "questionNo" : 9, 
+        "question": "What is the full form of HTML",
+        "answers": [{
+            "code": "A",
+            "answer": "Hypertext Machine Language"
+        },{
+            "code": "B",
+            "answer": "Hypertext Memory Language"
+        },{
+            "code": "C",
+            "answer": "Hyper Tech Markup Language"
+        },{
+            "code": "D",
+            "answer": "Hypertext Markup Language"
+        }],
+        "answer": "D"
+    },{
+        "questionNo" : 10, 
+        "question": "Which property is used to flow text around an image",
+        "answers": [{
+            "code": "A",
+            "answer": "Display"
+        },{
+            "code": "B",
+            "answer": "Float"
+        },{
+            "code": "C",
+            "answer": "Wrap"
+        }],
+        "answer": "B"
+    }
+]

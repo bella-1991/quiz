@@ -1,0 +1,8 @@
+.quiz-question { display: flex; flex-direction: column; }
+.quiz-question__header { background: grey; padding: 10px; }
+.quiz-question__answers-radio-list { display: flex; flex-direction: column; }
+.quiz-question__label { display: flex; align-items: center; margin-bottom: 10px; text-transform: capitalize; }
+.quiz-question__radio { margin-right: 10px; }
+.quiz-question__btn-container { padding: 20px 0; }
+.quiz-question__submit-answer:disabled { cursor: default; color: grey; }
+.quiz-question__submit-answer:disabled:hover { background: transparent; color: grey; }
